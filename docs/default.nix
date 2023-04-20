@@ -7,7 +7,7 @@ let
 
   nmdSrc = fetchTarball {
     url =
-      "https://git.sr.ht/~rycee/nmd/archive/abb15317ebd17e5a0a7dd105e2ce52f2700185a8.tar.gz";
+      "https://gitlab.com/api/v4/projects/rycee%2Fnmd/repository/archive.tar.gz?sha=f6ca9dfbae290e2133b4ff567e1a48c0eaf9d681";
     sha256 = "0zzrbjxf15hada279irif7s3sb8vs95jn4y4f8694as0j739gd1m";
   };
 
